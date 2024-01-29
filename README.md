@@ -5,4 +5,4 @@ Co-author: @molinal02
 
 Project Goal: Design and implement a distributed service using Remote Procedure Calls (RPC).
 
-[Note: The content from this repository can also be found in my alt. university account ( @EnriqueMorenoG88 ) where the original repository is public]
+[Note: Actual owner for the original repository was my partner @molinal02. The content from this repository can also be found in his; to which the link is provided in the repository description. My university account ( @EnriqueMorenoG88 ) figures as contributor]
