@@ -1,4 +1,4 @@
-# SSDD_ejev3
+#  SSDD_Distributed_system_RPC
 [3rd University Course] 3rd Practice from the Distributed Systems subject re-uploaded.
 
 Co-author: @molinal02
